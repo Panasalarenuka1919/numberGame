@@ -1,0 +1,20 @@
+body{
+    margin-top: 200px;
+    margin-bottom: 300px;
+    text-align: center;
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px;
+}
+h1{
+    background-image: linear-gradient(pink,white,gold);
+    width: 350px;
+    margin-left: 400px;
+}
+p{
+    color: blueviolet;
+    
+}
+
+
